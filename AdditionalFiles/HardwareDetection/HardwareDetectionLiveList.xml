@@ -1,0 +1,14 @@
+<OnlineDevices>
+  <OnlineDevice VendorID="2A" DeviceID="51A" TypeID="2A051A" DeviceType="SINAMICS V90 PN">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>sinamics-v90-pn</NameOfStation>
+    <MacAddress>00-1C-06-82-89-E2</MacAddress>
+    <IPAddress>192.168.0.3</IPAddress>
+  </OnlineDevice>
+  <OnlineDevice VendorID="16F" DeviceID="A" TypeID="16F000A" DeviceType="CFW500">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>cfw500</NameOfStation>
+    <MacAddress>38-31-AC-03-ED-E7</MacAddress>
+    <IPAddress>192.168.0.5</IPAddress>
+  </OnlineDevice>
+</OnlineDevices>
